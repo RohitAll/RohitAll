@@ -1,16 +1,62 @@
 # 💫 Hi 👋, I'm Rohit Kumar
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **gmail** For Collaboration/Project or Anything Else. 😊😊
+### 🚀 Software Developer | Data Analyst & Scientist | AI & ML Engineer  | Open Source Learner
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Rohit by
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+Passionate technology enthusiast from India with expertise in Software Development, Data Analytics, Data Science, Artificial Intelligence, and Machine Learning. I enjoy solving complex problems, building innovative solutions, and continuously learning emerging technologies to create real-world impact.
+
+---
+
+## 🔭 Currently Working On
+
+* Building programming and data-driven projects
+* Exploring AI and Machine Learning applications
+* Enhancing problem-solving and software development skills
+
+## 🌱 Currently Learning
+
+* Advanced Python Development
+* Artificial Intelligence & Machine Learning
+* Data Science & Data Analytics
+* Data Structures & Algorithms (DSA)
+* Java & JavaScript
+* Python
+* C & C++
+* SQL & DSA
+
+## 👯 Looking to Collaborate On
+
+* Open Source Projects
+* AI & Machine Learning Projects
+* Data Analytics Projects
+* Software Development Projects
+
+## 🤔 Looking for Help With
+
+* Advanced AI/ML Implementations
+* Real-World Data Science Projects
+* Open Source Contributions
+
+**Tools & Platforms**
+
+* Git
+* GitHub
+* VS Code
+* Other
+
+## 📫 How to Reach Me
+
+📧 Your Email Here
+
+## 😄 Pronouns
+
+He/Him
+
+## ⚡ Fun Fact
+
+I love technology, and technology keeps inspiring me to learn, build, and grow every single day.
+
+---
+
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RohitAll&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
