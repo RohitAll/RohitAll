@@ -6,15 +6,8 @@ Passionate technology enthusiast from India with expertise in Software Developme
 
 ---
 
-## 🔭 Currently Working On
-
-* Building programming and data-driven projects
-* Exploring AI and Machine Learning applications
-* Enhancing problem-solving and software development skills
-
 ## 🌱 Currently Learning
 
-* Advanced Python Development
 * Artificial Intelligence & Machine Learning
 * Data Science & Data Analytics
 * Data Structures & Algorithms (DSA)
@@ -23,19 +16,6 @@ Passionate technology enthusiast from India with expertise in Software Developme
 * C & C++
 * SQL & DSA
 
-## 👯 Looking to Collaborate On
-
-* Open Source Projects
-* AI & Machine Learning Projects
-* Data Analytics Projects
-* Software Development Projects
-
-## 🤔 Looking for Help With
-
-* Advanced AI/ML Implementations
-* Real-World Data Science Projects
-* Open Source Contributions
-
 **Tools & Platforms**
 
 * Git
@@ -43,19 +23,9 @@ Passionate technology enthusiast from India with expertise in Software Developme
 * VS Code
 * Other
 
-## 📫 How to Reach Me
-
-📧 Your Email Here
-
 ## 😄 Pronouns
 
 He/Him
-
-## ⚡ Fun Fact
-
-I love technology, and technology keeps inspiring me to learn, build, and grow every single day.
-
----
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RohitAll&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -74,15 +44,3 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 ![](https://github-readme-stats.shion.dev/api?username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RohitAll&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RohitAll&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=RohitAll&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
