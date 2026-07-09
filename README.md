@@ -6,12 +6,6 @@ Passionate technology enthusiast from India with expertise in Software Developme
 
 ---
 
-## 🔭 Currently Working On
-
-* Building programming and data-driven projects
-* Exploring AI and Machine Learning applications
-* Enhancing problem-solving and software development skills
-
 # 📌 Featured Projects
 
 | Project | Description |
@@ -20,7 +14,7 @@ Passionate technology enthusiast from India with expertise in Software Developme
 | AI Projects | Machine Learning Projects |
 | Data Analytics | Data Analysis using Pandas |
 | SQL Projects | SQL Practice |
-| Java Projects | Java Learning Projects |
+| Java Projects | Java Learning Projects | other
 
 ---
 ## 🌱 Currently Learning
@@ -34,18 +28,6 @@ Passionate technology enthusiast from India with expertise in Software Developme
 * SQL & DSA
 * HTML & CSS
 
-## 👯 Looking to Collaborate On
-
-* Open Source Projects
-* AI & Machine Learning Projects
-* Data Analytics Projects
-* Software Development Projects
-
-## 🤔 Looking for Help With
-
-* Advanced AI/ML Implementations
-* Real-World Data Science Projects
-* Open Source Contributions
 
 **Tools & Platforms**
 
@@ -183,7 +165,10 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 ---
+### Tools
 
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ## 💻 Others
 
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
@@ -192,8 +177,15 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RohitAll&theme=dark&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RohitAll&theme=tokyonight)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+# 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RohitAll&theme=tokyonight)
+
+---
+
+
 
 
 ### ✍️ Random Dev Quote
