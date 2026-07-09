@@ -177,16 +177,7 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RohitAll&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-# 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RohitAll&theme=tokyonight)
-
----
-
-
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
