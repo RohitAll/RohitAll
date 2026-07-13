@@ -44,6 +44,14 @@ He/Him
 I love technology, and technology keeps inspiring me to learn, build, and grow every single day.
 
 ---
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitAll&theme=tokyo-night"/>
+
+</p>
+---
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RohitAll&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -174,6 +182,7 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RohitAll&theme=dark&hide_border=false)<br/>
@@ -191,9 +200,15 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 - 🌐 Portfolio : https://<YOUR_PORTFOLIO>
 
 ---
----
 [![](https://komarev.com/ghpvc/?username=RohitAll&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
  <img src="https://komarev.com/ghpvc/?username=RohitAll&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### Thanks for visiting ❤️
+---
+
+<div align="center">
+
+## 🚀 Thanks for visiting my profile ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
+
+</div>
