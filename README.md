@@ -5,16 +5,18 @@
 Passionate technology enthusiast from India with expertise in Software Development, Data Analytics, Data Science, Artificial Intelligence, and Machine Learning. I enjoy solving complex problems, building innovative solutions, and continuously learning emerging technologies to create real-world impact.
 
 ---
-
 # 📌 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| Python Projects | Python Practice & Mini Projects |
-| AI Projects | Machine Learning Projects |
-| Data Analytics | Data Analysis using Pandas |
-| SQL Projects | SQL Practice |
-| Java Projects | Java Learning Projects | other
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 🤖 Artificial Intelligence & Machine Learning | A complete collection of AI & Machine Learning concepts, algorithms, hands-on projects, model building, and real-world applications using Python, Scikit-learn, TensorFlow, and PyTorch. |
+| 📊 Data Science & Data Analytics | Data analysis, data visualization, statistics, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, Seaborn, and real-world analytics projects. |
+| 🧠 Data Structures & Algorithms (DSA) | Comprehensive DSA solutions including Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming, and coding interview preparation. |
+| ☕ Java & 🌐 JavaScript | Beginner to advanced Java and JavaScript programming with object-oriented programming, problem-solving, mini projects, and interview preparation. |
+| 🐍 Python | Complete Python programming from beginner to advanced including core Python, OOP, file handling, libraries, automation, web development, and projects. |
+| 💻 C & ⚙️ C++ | Complete C and C++ programming covering fundamentals, OOP, STL, pointers, file handling, DSA implementation, and programming practice. |
+| 🗄️ SQL & DSA | SQL queries, database design, joins, stored procedures, indexing, optimization, and DSA practice for technical interviews. |
+| 🌐 HTML & 🎨 CSS | Responsive web design projects using HTML5 and CSS3 including layouts, animations, Flexbox, Grid, and modern UI components. |
 
 ---
 ## 🌱 Currently Learning
@@ -27,14 +29,6 @@ Passionate technology enthusiast from India with expertise in Software Developme
 * C & C++
 * SQL & DSA
 * HTML & CSS
-
-
-**Tools & Platforms**
-
-* Git
-* GitHub
-* VS Code
-* Other
 
 
 ## 😄 Pronouns
@@ -80,8 +74,6 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
@@ -89,19 +81,14 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 
 ---
 
 ## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+## Basic: ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -134,25 +121,6 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 
 ---
 
-## 🛠️ DevOps & Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white)
-
----
-
-## 🧪 Testing
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black)
-
----
 
 ## 🎨 Design & Creative Tools
 
@@ -161,27 +129,30 @@ I love technology, and technology keeps inspiring me to learn, build, and grow e
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ---
 
 ## 📱 CMS & Mobile
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 ---
-### Tools
 
+# 🛠️ Development Tools
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 ## 💻 Others
 
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RohitAll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
